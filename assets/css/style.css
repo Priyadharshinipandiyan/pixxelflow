@@ -1,5 +1,5 @@
 /*===============================================
-Template Name: pixxelflow - SEO Marketing Agency
+Template Name: pixxelflow
 Author:  https://themeforest.net/user/dreamit-solution
 Description: Description
 Version: 1.0.0
@@ -941,6 +941,14 @@ ul.sub-menu li:hover a span {
     font-size: 50px;
     font-weight: 500;
     display: inline-block;
+}
+
+.counter-title {
+    text-align: center;
+}
+
+.counter-text {
+    text-align: center;
 }
 
 .counter-text p {
